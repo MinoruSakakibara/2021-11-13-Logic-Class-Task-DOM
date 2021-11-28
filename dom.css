@@ -1,0 +1,21 @@
+.title {
+    font-size: 100px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.btn {
+    display: block;
+    margin: 0 auto;
+}
+
+/*元の背景色*/
+body {
+    background-color: blanchedalmond;
+}
+/*DOM操作後の背景色*/
+.addColor {
+    background-color: aquamarine;
+}
